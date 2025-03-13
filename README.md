@@ -1,0 +1,2 @@
+# Polynomial_regression
+Polynomial_regression_practical_knowledge
